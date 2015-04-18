@@ -16,6 +16,8 @@ Dependencies
 	dbus-1-python3
 	python-gtksourceview-devel
 	python3-setuptools
+### Ubuntu:
+	$ sudo apt install python-setuptools snapper gir1.2-gtksource-3.0
 	
 Installation
 -----------
